@@ -1,13 +1,13 @@
 {
     "##": "rDownloader in the Scoop bucket degoya/scoop-rdownloader (RD-180-06). Rendered from packaging/scoop/rdownloader.json.in in degoya/rDownloader by scripts/package-managers.sh and replaced by the release workflow with every release: change the template, not this file.",
-    "version": "1.44.0",
+    "version": "1.45.0",
     "description": "Local-first download manager with a web interface",
     "homepage": "https://rdownloader.net",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/degoya/rDownloader/releases/download/v1.44.0/rdownloader-windows-x86_64.zip",
-            "hash": "6252b467152d34e9c2b839ff766004945017b7758a50838c6cd014886521ae4c"
+            "url": "https://github.com/degoya/rDownloader/releases/download/v1.45.0/rdownloader-windows-x86_64.zip",
+            "hash": "6ebdb9f8c48aa91e38c57282963fce4fb9e8f51fdf47575d90864a6bf2df5f7f"
         }
     },
     "bin": [
